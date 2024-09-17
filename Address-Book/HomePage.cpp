@@ -11,6 +11,7 @@ HomePage::HomePage(QWidget *parent)
 }
 
 
+
 void HomePage::createLayout()
 {
     m_main_widget = new QWidget(this);

@@ -66,9 +66,9 @@ include CMakeFiles/Address-Book_autogen_timestamp_deps.dir/compiler_depend.make
 # Include the progress variables for this target.
 include CMakeFiles/Address-Book_autogen_timestamp_deps.dir/progress.make
 
+CMakeFiles/Address-Book_autogen_timestamp_deps: /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/./libexec/uic
 CMakeFiles/Address-Book_autogen_timestamp_deps: /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/./libexec/moc
 CMakeFiles/Address-Book_autogen_timestamp_deps: /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/QtCore
-CMakeFiles/Address-Book_autogen_timestamp_deps: /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/./libexec/uic
 CMakeFiles/Address-Book_autogen_timestamp_deps: /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/QtWidgets
 
 Address-Book_autogen_timestamp_deps: CMakeFiles/Address-Book_autogen_timestamp_deps

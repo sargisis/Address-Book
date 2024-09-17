@@ -26,6 +26,8 @@ set(PROJECT_SOURCES
         RightLayout.h
 )
 
+
+
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Address-Book
         MANUAL_FINALIZATION

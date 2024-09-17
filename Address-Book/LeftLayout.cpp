@@ -12,6 +12,8 @@ void LeftLayout::createLayout()
 }
 
 
+
+
 void LeftLayout::createButtons()
 {
     widget = new QWidget();
