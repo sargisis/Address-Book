@@ -9,7 +9,9 @@ LeftLayout::LeftLayout(QWidget *parent)
 void LeftLayout::createLayout()
 {
     m_left_layout = new QVBoxLayout();
+
     listWidget = new QListWidget();
+
     m_left_layout->addWidget(listWidget);
 
     this->addLayout(m_left_layout);
@@ -17,11 +19,10 @@ void LeftLayout::createLayout()
 
 void LeftLayout::createButtons()
 {
-    widget = new QWidget();
-    layout = new QVBoxLayout();
+        widget = new QWidget();
+        layout = new QVBoxLayout();
 
-    widget->setLayout(layout);
-
+        widget->setLayout(layout);
 
         addButton = new QPushButton(QString("Add"));
 
@@ -33,7 +34,6 @@ void LeftLayout::createButtons()
 
         QObject::connect(addButton , &QPushButton::clicked ,this, &LeftLayout::addFunctionally);
 
-
         removeButton = new QPushButton(QString("Remove"));
 
         removeButton->setFixedSize(500 , 100);
@@ -42,7 +42,6 @@ void LeftLayout::createButtons()
         layout->addWidget(removeButton);
 
         QObject::connect(removeButton , &QPushButton::clicked ,this, &LeftLayout::deleteFunctionally);
-
 
         editButton = new QPushButton(QString("Edit"));
 
@@ -54,13 +53,14 @@ void LeftLayout::createButtons()
         QObject::connect(editButton , &QPushButton::clicked ,this, &LeftLayout::editFunctionally);
 
 
-    this->addWidget(widget);
+        this->addWidget(widget);
 }
 
 
 void LeftLayout::addFunctionally()
 {
     QString text = QInputDialog::getText(widget , "Add Element" , "Please Input");
+
     if (!text.isEmpty())
     {
         listWidget->addItem(text);
@@ -85,9 +85,11 @@ void LeftLayout::addFunctionally()
 void LeftLayout::deleteFunctionally()
 {
     QListWidgetItem* item = listWidget->currentItem();
+
     if (item)
     {
         QString itemText = item->text();
+
         delete item;
 
         QFile file("/Users/ONLYPROGRAMMING/Desktop/data.txt");
@@ -128,12 +130,15 @@ void LeftLayout::deleteFunctionally()
 void LeftLayout::editFunctionally()
 {
     QListWidgetItem *item = listWidget->currentItem();
-    if (item) {
+    if (item)
+    {
 
         QString oldString = item->text();
 
         QString text = QInputDialog::getText(widget, "Edit Element","Enter new text:", QLineEdit::Normal, oldString);
-        if (!text.isEmpty() && text != oldString) {
+
+        if (!text.isEmpty() && text != oldString)
+        {
             item->setText(text);
 
             QFile file("/Users/ONLYPROGRAMMING/Desktop/data.txt");

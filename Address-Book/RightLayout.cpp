@@ -7,5 +7,4 @@ RightLayout::RightLayout(QWidget *parent)
 void RightLayout::createLayout()
 {
     m_right_layout = new QVBoxLayout();
-
 }
