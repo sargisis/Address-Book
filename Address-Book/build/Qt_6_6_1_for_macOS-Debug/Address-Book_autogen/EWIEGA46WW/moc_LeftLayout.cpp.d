@@ -100,10 +100,14 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/syslimits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/wait.h \
   /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/Layouts.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QFile \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QList \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QTextStream \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -132,6 +136,8 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
@@ -142,12 +148,15 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -168,6 +177,7 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qset.h \
@@ -208,6 +218,7 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qurl.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
@@ -226,27 +237,55 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextoption.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QInputDialog \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QListWidget \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QListWidgetItem \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemview.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qinputdialog.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlineedit.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistview.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistwidget.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtextedit.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \

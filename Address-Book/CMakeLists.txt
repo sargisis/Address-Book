@@ -22,8 +22,8 @@ set(PROJECT_SOURCES
         Layouts.h
         LeftLayout.cpp
         LeftLayout.h
-        RightLayout.cpp
         RightLayout.h
+        RightLayout.cpp
 )
 
 
@@ -34,8 +34,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         LeftLayout.h LeftLayout.cpp
         HomePage.h HomePage.cpp
-        RightLayout.h RightLayout.cpp
         Layouts.h Layouts.cpp
+        RightLayout.h RightLayout.cpp
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Address-Book APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

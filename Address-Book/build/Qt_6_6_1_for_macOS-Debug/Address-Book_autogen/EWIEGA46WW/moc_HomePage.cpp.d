@@ -109,6 +109,7 @@
   /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/RightLayout.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QDeadlineTimer \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QEvent \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QFile \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QHash \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QList \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QMap \
@@ -123,6 +124,7 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QSizeF \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QString \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QStringList \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QTextStream \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QVariant \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QtCore \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/QtCoreDepends \
@@ -500,10 +502,13 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qwindow.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QCommonStyle \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QInputDialog \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QLayout \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QListWidget \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QListWidgetItem \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QScrollerProperties \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QtWidgets \

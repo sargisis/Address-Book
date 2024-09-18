@@ -3,7 +3,7 @@
 #include <QVBoxLayout>
 #include "Layouts.h"
 #include <QWidget>
-#include <QLabel>
+
 
 class RightLayout : public QVBoxLayout , Layouts
 {
@@ -16,10 +16,5 @@ public:
 
 private:
     QVBoxLayout* m_right_layout {nullptr};
-    QLabel* m_label {nullptr}; // soon is removed;
 
 };
-
-
-
-

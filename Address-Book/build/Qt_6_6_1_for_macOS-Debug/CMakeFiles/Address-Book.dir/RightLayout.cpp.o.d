@@ -555,11 +555,4 @@ CMakeFiles/Address-Book.dir/RightLayout.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qfontmetrics.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qfontinfo.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qcursor.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QLabel \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlabel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qframe.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpicture.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qiodevice.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextdocument.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qurl.h
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qbitmap.h

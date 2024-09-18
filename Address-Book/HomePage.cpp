@@ -10,8 +10,6 @@ HomePage::HomePage(QWidget *parent)
     setFixedSize(500,500);
 }
 
-
-
 void HomePage::createLayout()
 {
     m_main_widget = new QWidget(this);
@@ -25,6 +23,8 @@ void HomePage::createLayout()
     m_left_layout->createLayout();
 
     m_right_layout->createLayout();
+
+
 
     m_main_layout->addLayout(m_left_layout , 0 ,0);
     m_main_layout->addLayout(m_right_layout, 0 ,1);

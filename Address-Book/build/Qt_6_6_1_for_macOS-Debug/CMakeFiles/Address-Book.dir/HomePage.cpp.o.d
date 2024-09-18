@@ -2,6 +2,7 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/HomePage.cpp \
   /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/HomePage.h \
   /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/LeftLayout.h \
+  /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/Layouts.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h \
@@ -559,68 +560,11 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qcursor.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qbitmap.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QWidget \
-  /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/Layouts.h \
-  /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/RightLayout.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QLabel \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlabel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qframe.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpicture.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qiodevice.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextdocument.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qurl.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QtWidgets \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QtWidgetsDepends \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QtCore \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QtCoreDepends \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20algorithm.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20chrono.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20iterator.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q23functional.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractanimation.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstracteventdispatcher.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qeventloop.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractitemmodel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractnativeeventfilter.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractproxymodel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qanimationgroup.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qapplicationstatic.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QMutex \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qmutex.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qtsan_impl.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/sanitizer/tsan_interface.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreevent.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qassociativeiterable.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbasictimer.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbitarray.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbuffer.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbytearraymatcher.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcache.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcalendar.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qlocale.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborarray.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborvalue.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdatetime.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborcommon.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qregularexpression.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/quuid.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qendian.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcbormap.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstream.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstreamreader.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstreamwriter.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcollator.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcommandlineoption.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcommandlineparser.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qconcatenatetablesproxymodel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcryptographichash.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdir.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QList \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QFile \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qfile.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qfiledevice.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qiodevice.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/filesystem \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/stack \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/deque \
@@ -680,6 +624,89 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/istream \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QTextStream \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QTextEdit \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtextedit.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractscrollarea.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qframe.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextdocument.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qurl.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextoption.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextcursor.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextformat.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpen.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QInputDialog \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qinputdialog.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlineedit.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qdialog.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QListWidget \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlistwidget.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlistview.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractitemview.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractitemmodel.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qitemselectionmodel.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractitemdelegate.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qstyleoption.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qlocale.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractspinbox.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qvalidator.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qregularexpression.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qslider.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractslider.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qstyle.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtabbar.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qrubberband.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QListWidgetItem \
+  /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/RightLayout.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QtWidgets \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/QtWidgetsDepends \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QtCore \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QtCoreDepends \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20algorithm.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20chrono.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q20iterator.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/q23functional.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractanimation.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstracteventdispatcher.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qeventloop.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractnativeeventfilter.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qabstractproxymodel.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qanimationgroup.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qapplicationstatic.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QMutex \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qmutex.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qtsan_impl.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/sanitizer/tsan_interface.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreevent.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qassociativeiterable.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbasictimer.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbitarray.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbuffer.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qbytearraymatcher.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcache.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcalendar.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborarray.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborvalue.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdatetime.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborcommon.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/quuid.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qendian.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcbormap.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstream.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstreamreader.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcborstreamwriter.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcollator.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcommandlineoption.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcommandlineparser.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qconcatenatetablesproxymodel.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qcryptographichash.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdir.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qfileinfo.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qtimezone.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qdiriterator.h \
@@ -704,7 +731,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qfuturesynchronizer.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qfuturewatcher.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qidentityproxymodel.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qitemselectionmodel.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qjsonarray.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qjsonvalue.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qjsondocument.h \
@@ -772,7 +798,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QVariant \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QString \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qvariantlist.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QList \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qvariantmap.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/QMap \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Headers/qvector.h \
@@ -800,10 +825,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qglyphrun.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qrawfont.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qfontdatabase.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextcursor.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextformat.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpen.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qtextoption.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qaccessible.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qaccessible_base.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qaccessiblebridge.h \
@@ -868,6 +889,7 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpainter.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpainterpath.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpdfwriter.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpicture.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qpixmapcache.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qrasterwindow.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/QPaintDeviceWindow \
@@ -887,18 +909,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qundogroup.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qundostack.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qutimimeconverter.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/qvalidator.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractitemdelegate.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qstyleoption.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractspinbox.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qslider.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractslider.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qstyle.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtabbar.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qrubberband.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractitemview.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qabstractscrollarea.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qaccessiblewidget.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qaction.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Headers/QAction \
@@ -909,7 +919,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcalendarwidget.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcheckbox.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcolordialog.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qdialog.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcolormap.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcolumnview.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qcombobox.h \
@@ -953,14 +962,11 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qscrollarea.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qgroupbox.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qheaderview.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qinputdialog.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlineedit.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qitemdelegate.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qitemeditorfactory.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qkeysequenceedit.h \
+  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlabel.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlcdnumber.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlistview.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qlistwidget.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qmdiarea.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qmdisubwindow.h \
@@ -968,7 +974,6 @@ CMakeFiles/Address-Book.dir/HomePage.cpp.o: \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qmenubar.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qmessagebox.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qplaintextedit.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qtextedit.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qprogressbar.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qprogressdialog.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Headers/qproxystyle.h \

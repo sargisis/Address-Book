@@ -142,7 +142,6 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
@@ -209,7 +208,6 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qurl.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
@@ -228,26 +226,21 @@
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
-  /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
   /Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
