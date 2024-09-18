@@ -25,7 +25,9 @@ void LeftLayout::createButtons()
 
         addButton = new QPushButton(QString("Add"));
 
-        addButton->setFixedSize(200 , 100);
+        addButton->setFixedSize(500 , 100);
+
+        addButton->setStyleSheet("background-color: black");
 
         layout->addWidget(addButton);
 
@@ -34,7 +36,8 @@ void LeftLayout::createButtons()
 
         removeButton = new QPushButton(QString("Remove"));
 
-        removeButton->setFixedSize(200 , 100);
+        removeButton->setFixedSize(500 , 100);
+        removeButton->setStyleSheet("background-color: blue");
 
         layout->addWidget(removeButton);
 
@@ -43,7 +46,8 @@ void LeftLayout::createButtons()
 
         editButton = new QPushButton(QString("Edit"));
 
-        editButton->setFixedSize(200,100);
+        editButton->setFixedSize(500,100);
+        editButton->setStyleSheet("background-color: red");
 
         layout->addWidget(editButton);
 

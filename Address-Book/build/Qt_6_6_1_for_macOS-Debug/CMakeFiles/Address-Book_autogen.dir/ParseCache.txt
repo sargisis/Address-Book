@@ -504,9 +504,10 @@
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
-/Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/ButtonsFunctionally.cpp
 /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/Layouts.h
+/Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/ButtonsFunctionally.cpp
 /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/ButtonsFunctionally.h
+/Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/HomePage.cpp
 /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/LeftLayout.h
  mmc:Q_OBJECT
  mdp:/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/Availability.h
@@ -801,7 +802,6 @@
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h
  mdp:/Users/ONLYPROGRAMMING/Qt/6.6.1/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h
-/Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/HomePage.cpp
 /Users/ONLYPROGRAMMING/Desktop/Address-Book/Address-Book/HomePage.h
  mmc:Q_OBJECT
  mdp:/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/Availability.h

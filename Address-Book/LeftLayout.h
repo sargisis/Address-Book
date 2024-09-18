@@ -47,7 +47,6 @@ private:
 
 private:
     QListWidget* listWidget {nullptr};
-
 };
 
 

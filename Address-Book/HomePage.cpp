@@ -33,5 +33,4 @@ void HomePage::createLayout()
 
     setLayout(m_main_layout->layout());
 
-
 }
