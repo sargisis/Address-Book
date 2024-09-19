@@ -3,6 +3,7 @@
 LeftLayout::LeftLayout(QWidget *parent)
     : QVBoxLayout(parent)
 {
+
     this->createButtons();
 }
 
@@ -12,8 +13,20 @@ void LeftLayout::createLayout()
 
     listWidget = new QListWidget();
 
-    m_left_layout->addWidget(listWidget);
+    // Загрузка данных из файла в listWidget
+    QFile file("/Users/ONLYPROGRAMMING/Desktop/data.txt");
+    if (file.open(QIODevice::ReadOnly | QIODevice::Text)) {
+        QTextStream in(&file);
+        while (!in.atEnd()) {
+            QString line = in.readLine();
+            listWidget->addItem(line); // Добавляем строку в listWidget
+        }
+        file.close();
+    } else {
+        throw std::logic_error("File does not open");
+    }
 
+    m_left_layout->addWidget(listWidget);
     this->addLayout(m_left_layout);
 }
 
@@ -132,7 +145,6 @@ void LeftLayout::editFunctionally()
     QListWidgetItem *item = listWidget->currentItem();
     if (item)
     {
-
         QString oldString = item->text();
 
         QString text = QInputDialog::getText(widget, "Edit Element","Enter new text:", QLineEdit::Normal, oldString);
@@ -143,7 +155,7 @@ void LeftLayout::editFunctionally()
 
             QFile file("/Users/ONLYPROGRAMMING/Desktop/data.txt");
 
-            if (file.open(QIODevice::ReadWrite | QIODevice::Text))
+            if (file.open(QIODevice::ReadWrite| QIODevice::Text))
             {
                 QTextStream in(&file);
                 QStringList lines;
@@ -179,3 +191,4 @@ void LeftLayout::editFunctionally()
         }
     }
 }
+
