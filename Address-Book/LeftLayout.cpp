@@ -13,13 +13,12 @@ void LeftLayout::createLayout()
 
     listWidget = new QListWidget();
 
-    // Загрузка данных из файла в listWidget
     QFile file("/Users/ONLYPROGRAMMING/Desktop/data.txt");
     if (file.open(QIODevice::ReadOnly | QIODevice::Text)) {
         QTextStream in(&file);
         while (!in.atEnd()) {
             QString line = in.readLine();
-            listWidget->addItem(line); // Добавляем строку в listWidget
+            listWidget->addItem(line);
         }
         file.close();
     } else {
